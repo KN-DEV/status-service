@@ -1,0 +1,5 @@
+{
+    "KEYBOX_PIN" : 7,
+    "ROOM_PIN" : 8,
+    "SERVICE_ADDRESS": "http://status.dev.uek.krakow.pl/"
+}
